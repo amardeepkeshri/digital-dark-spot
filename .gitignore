@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment secrets
+.env
+
+# React
+node_modules/
+dist/
+
+# Database
+*.db
+# macOS
+.DS_Store
