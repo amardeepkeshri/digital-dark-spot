@@ -38,7 +38,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://digital-dark-spot.vercel.app",
+        "https://digital-dark-spot-seven.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
